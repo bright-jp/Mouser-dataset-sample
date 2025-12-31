@@ -2,7 +2,7 @@
 
 <h2>1001件のMouser製品のサンプルデータセット</h2>
 
-![Mouser dataset header](https://github.com/luminati-io/Mouser-dataset-sample/blob/main/Mouser-datasets.png)
+![Mouser dataset header](https://github.com/bright-jp/Mouser-dataset-sample/blob/main/Mouser-datasets.png)
 
 1000件以上のレコードを含むMouserのデータセットサンプルです。データセットは <b>Bright Data API</b> を使用して抽出しました。
 
