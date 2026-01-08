@@ -1,4 +1,4 @@
-# # Mouser-dataset-samples
+# # Mouser データセットサンプル
 
 <h2>1001件のMouser製品のサンプルデータセット</h2>
 
